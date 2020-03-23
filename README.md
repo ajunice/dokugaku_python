@@ -1,2 +1,2 @@
-# studyalonepython
+# dokugaku_python
 
